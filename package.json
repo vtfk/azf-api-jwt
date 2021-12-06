@@ -1,0 +1,16 @@
+{
+  "name": "azf-api-jwt",
+  "version": "1.0.0",
+  "description": "Generates a JWT token",
+  "scripts": {
+    "start": "func start",
+    "test": "standard && npm audit"
+  },
+  "author": "",
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  },
+  "devDependencies": {
+    "standard": "16.0.4"
+  }
+}
