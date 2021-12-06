@@ -1,6 +1,6 @@
 {
   "name": "azf-api-jwt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a JWT token",
   "scripts": {
     "start": "func start",
